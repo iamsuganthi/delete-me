@@ -18,7 +18,7 @@ class App extends React.Component {
             id: 1,
             name: "Style of construction",
             type: "select",
-            options: ["Contemporary", "Mid Century", "Bungalow"]
+            options: ["Contemporary", "Mid Century", "Bungalow", "Duplex"]
           },
           {id: 2, name: "Year of construction", type: "text"},
           {
